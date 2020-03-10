@@ -1,6 +1,5 @@
-Assignment 4
-Student: Evan Wheeler
-Student#: 30046173
+A python implementation of the game "Rush Hour" where the goal is to get the red car to the exit by moving around the other cars.
+This program uses the "pygame" module to deal with game effects and graphics.
 
 The text-only version of the game is called 'rushhour.py'.
 The gui game is called 'rushhourGui.py' and imports some of the classes from the text based game.
